@@ -1,0 +1,295 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+html {
+    height: 100%
+}
+body {
+    background-color:#DDD;
+    padding: 0px;
+    margin: 0px;
+    font-size: 100,01%;
+    min-height:101%;
+}
+ul {
+    font-size: 75%
+}
+form {
+    margin: 0px;
+}
+#main {
+    width:100%;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: #A1A1A1;
+}
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 910px;
+    border: 3px solid #A1A1A1;
+    text-align:center;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+    height: auto;
+}
+#banner {
+    height: 300px;
+}
+#banner a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: normal;
+    left: 0px;
+    top: 0px;
+    background-color: #FFFFFF;
+    text-align: left;
+    list-style-type: none;
+    border: 0px none;
+}
+#banner a:link {
+    text-decoration: none;
+    border: 0px none;
+}
+#banner a:visited {
+    color: #cc6600;
+}
+#banner a:hover {
+    text-decoration: none;
+    border: 0px none;
+}
+#banner a:active {
+    text-decoration: none;
+    border: 0px none;
+}
+#banner a:focus {
+    text-decoration: none;
+    border: 0px none;
+}
+#banner image {
+    text-decoration: none;
+    border: 0px none;
+}
+#menulinks {
+    width: 214px;
+    float: left;
+    height: auto;
+    min-height: 430px;
+    padding: 0px;
+    margin-top:37px;
+    background-color: #FFF;
+    overflow: hidden;
+    font-size: 100%;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-top-style: solid;
+    border-top-width: 1px;
+/* Makes the line thicker on the above menu, for the line should be thinner, it should be specified 0px */
+    border-top-color: #DDDDDD;
+    text-align: left;
+}
+#menulinks ul {
+    list-style-type: none;
+    border-top: 1px #EBEBEB solid;
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+}
+#menulinks ul a {
+    text-decoration: none;
+    display:block;
+    border-bottom: 1px #EBEBEB solid;
+}
+#menulinks ul li {
+    margin: 0px;
+    padding: 0px;
+    min-height: 18px;
+    border-right: 1px #EBEBEB solid;
+}
+#menulinks ul li a {
+    color: #929292;
+    font-weight: normal;
+    font-size: 100%;
+    min-height: 18px;
+    background-color: #FFF;
+    padding: 5px 10px 0px 20px;
+    margin: 0px;
+    width: 183px;
+}
+#menulinks ul li.menulinkse1a a {
+    background-color: #F4F4F4;
+    padding: 5px 10px 1px 20px;
+    color:#515151;
+}
+#menulinks ul li.menulinkse1a {
+    background-color: #F4F4F4;
+    padding: 5px 10px 1px 20px;
+    color:#515151;
+}
+#menulinks ul li a:hover {
+    color:#515151;
+    background-color: #f4f4f4;
+}
+#mainpartwrapper {
+    width: 690px;
+    margin: 0px 0px 0px 214px;
+    height: auto;
+    background-color: #fff;
+    padding: 0px;
+    font-size: 100%;
+    text-align: left;
+}
+#name {
+    font-size: 140%;
+    padding-left: 20px;
+    padding-bottom: 3px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    color: #666666;
+    padding-top: 5px;
+    background-color: #DDDDDD;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: #A1A1A1;
+    text-align: left;
+}
+#mainparttitle {
+    font-size: 120%;
+    border-bottom-style: solid;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    padding-left: 0px;
+    margin-left: 20px;
+    margin-right: 27px;
+    border-bottom-width: 2px;
+    border-bottom-color: #DDDDDD;
+    color: #666666;
+    padding-top: 3px;
+    margin-top: 10px;
+    padding-bottom: 2px;
+}
+#paperstitle {
+    font-size: 130%;
+    border-bottom-style: none;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: #666666;
+    padding-top: 3px;
+    margin-top: 3px;
+    padding-bottom: 2px;
+}
+.years {
+    color:#000000;
+    background-color: #DDDDDD;
+    margin-bottom: 6px;
+    font-size: 100%;
+    text-align: center;
+    margin-top: 6px;
+}
+#mainpart {
+    padding-right:20px;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:30px;
+    color:#666666;
+    font-size: 75%;
+}
+#mainpart ul  {
+    list-style-type: none;
+    line-height: 14px;
+    padding: 0px;
+    margin: 0px 0px 0px 26px;
+    font-size: 100%;
+}
+#mainpart ul li {
+    color: #7C7C7C;
+    list-style-type: none;
+    line-height: 14px;
+}
+#mainpart a {
+    text-decoration: none;
+    color: #00CC33;
+    font-weight: normal;
+}
+#mainpart a:hover {
+    text-decoration: underline;
+    color: #FF00CC;
+}
+#mainpart a:link {
+    color: #C57500;
+}
+#mainpart a:visited {
+    color: #cc6600;
+}
+#mainpart a:focus {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #DA8300;
+}
+#mainpart a:active {
+    background-color: #DDDDDD;
+    color: white;
+}
+#footerpart {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: #FFFFFF;
+    letter-spacing:1px;
+    font-size: 65%;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#999;
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-top-color: #DDDDDD;
+    clear:both;
+}
+#footerpart a {
+    color: #666666;
+    text-decoration: none;
+}
+#footerpart a:hover {
+    text-decoration: underline;
+}
+#left {
+    background-color: #FFFFFF;
+    padding-left: 10px;
+}
+#right {
+    background-color: #FFFFFF;
+    padding-right: 20px;
+    margin-right: 10px;
+}
+/*Bibtex entries*/
+.preformatted {
+    font-family: Courier;
+    font-size: 120%;
+}
+.pre {
+    font-size: 100%;
+    font-family: courier, courier new,
+    monospace;
+    font-weight: normal;
+    font-style: normal;
+    color:#666666;
+    line-height: 12pt;
+    text-decoration: none;
+}
+.code {
+    font-size: 100%;
+    font-family: courier, courier new,
+    monospace;
+    font-weight: normal;
+    font-style: normal;
+    color:#666666;
+    line-height: 12pt;
+    text-decoration: none;
+}

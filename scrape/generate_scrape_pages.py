@@ -2,7 +2,7 @@
 
 from random import sample
 
-letters = 'abcdefghijklmnopqrstuvwxyz'
+letters = 'abcdefghi'
 combos = [a + b for a in letters for b in letters]
 
 for c in combos:
@@ -10,7 +10,7 @@ for c in combos:
         h_file.write('<!DOCTYPE html>\n')
         h_file.write('<html>\n<body>\nHere are the links: <br />\n')
         counter = 1
-        for lnk in sample(combos, 10):
+        for lnk in sample(combos, 5):
             if lnk != c:  # don't put page's link to itself
                 h_file.write('<a href="https://reynoldsnlp.com/scrape/' + lnk +
                              '.html">Link {}</a> <br />\n'.format(counter))

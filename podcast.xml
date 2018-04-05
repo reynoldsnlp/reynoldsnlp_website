@@ -17,10 +17,10 @@
   <item>
     <title>First title!</title>
     <link>http://reynoldsnlp.com/first.mp3</link>
-    <description>SHORT first podcast</description>
-    <author>hege@refsnesdata.no</author> <!-- optional -->
+    <description>SHORT first podcast. Welcome aboard!</description>
+    <author>user@example.com</author> <!-- optional -->
     <comments>https://www.w3schools.com/comments</comments> <!-- optional -->
-    <enclosure url="https://www.w3schools.com/xml/rss.mp3" length="5000" type="audio/mpeg" /> <!-- optional -->
+    <enclosure url="http://reynoldsnlp.com/zapsplat_pilot.mp3" length="5000" type="audio/mpeg" /> <!-- optional -->
   </item>
 
   <item>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Rob's Home Page</title>
+  <link>https://reynoldsnlp.com</link>
+  <description>My first podcast!!!</description>
+  <category>Testing stuff</category> <!-- optional -->
+  <copyright>2018 Robert Reynolds. GPL 3.0</copyright> <!-- optional -->
+  <image> <!-- optional -->
+    <url>https://www.w3schools.com/images/logo.gif</url>
+    <title>W3Schools.com</title>
+    <link>https://www.w3schools.com</link>
+  </image>
+  <language>en-us</language> <!-- optional -->
+
+  <item>
+    <title>First title!</title>
+    <link>http://reynoldsnlp.com/first.mp3</link>
+    <description>SHORT first podcast</description>
+    <author>hege@refsnesdata.no</author> <!-- optional -->
+    <comments>https://www.w3schools.com/comments</comments> <!-- optional -->
+    <enclosure url="https://www.w3schools.com/xml/rss.mp3" length="5000" type="audio/mpeg" /> <!-- optional -->
+  </item>
+
+  <item>
+    <title>XML Tutorial</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>New XML tutorial on W3Schools</description>
+  </item>
+
+</channel>
+
+</rss>

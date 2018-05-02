@@ -1,19 +1,19 @@
 <rss version="2.0">
     <channel>
-        <title>Rob's Home Page</title>
+		<title>BYU Japanese 301/302</title>
         <link>https://reynoldsnlp.com</link>
-        <description>My first podcast!!!</description>
-        <category>Testing stuff</category>
+        <description>Audio files to accompany Japanese as a Second Language</description>
+        <category>Language learning</category>
         <!--  optional  -->
         <copyright>2018 Robert Reynolds. GPL 3.0</copyright>
         <!--  optional  -->
         <image>
-        <!--  optional  -->
-        <url>https://www.w3schools.com/images/logo.gif</url>
-        <title>W3Schools.com</title>
-        <link>https://www.w3schools.com</link>
+			<!--  optional  -->
+			<url>https://identity.byu.edu/wp-content/uploads/2016/01/BYU_IM26a_z.jpg</url>
+			<title>Brigham Young University</title>
+			<link>http://ane.byu.edu/japan/</link>
         </image>
-        <language>en-us</language>
+        <language>ja</language>
         <!--  optional  -->
 
         <item>

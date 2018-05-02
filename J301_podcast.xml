@@ -1,0 +1,2444 @@
+<rss version="2.0">
+    <channel>
+        <title>Rob's Home Page</title>
+        <link>https://reynoldsnlp.com</link>
+        <description>My first podcast!!!</description>
+        <category>Testing stuff</category>
+        <!--  optional  -->
+        <copyright>2018 Robert Reynolds. GPL 3.0</copyright>
+        <!--  optional  -->
+        <image>
+        <!--  optional  -->
+        <url>https://www.w3schools.com/images/logo.gif</url>
+        <title>W3Schools.com</title>
+        <link>https://www.w3schools.com</link>
+        </image>
+        <language>en-us</language>
+        <!--  optional  -->
+
+        <item>
+        <title>L1_1. Xで有名な</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_1.mp3" length="47" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_2. V(v.t.) - てある</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_2.mp3" length="35" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_3a. V (v.t.) - ている(progressive)</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_3a.mp3" length="34" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_3b. Vている(resultative)</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_3b.mp3" length="42" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_4. V3ことができる・XがVstem-eru・-(ra)reru</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_4.mp3" length="83" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_5a. Sかい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_5a.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_5b. Sかい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_5b.mp3" length="26" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_6a. Sじゃないか</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_6a.mp3" length="60" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_6b. Sじゃないか</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_6b.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_7a. XどころかY</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_7a.mp3" length="68" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_7b. XどころかY</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_7b.mp3" length="50" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_ex1. 〜てしまう</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_ex1.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L1_ex2. 〜てみる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L1_ex2.mp3" length="40" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_1. AgentにV1れる・られる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_1. AgentにV1れる・られる.mp3" length="55" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_1b. AgentにV1れる・られる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_1b.mp3" length="62" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_2a. V(neg)ように</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_2a.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_2b. V(affirm)ように</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_2b.mp3" length="36" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_3. Vておく</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_3.mp3" length="71" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_4. Sことにする</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_4.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_5. Vstem+e・ro</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_5.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_6a. V1せる・させる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_6a.mp3" length="50" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_6b. V1せる・させる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_6b.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L2_7. Sとのことだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L2_7.mp3" length="67" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_1a. どうしても</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_1a.mp3" length="40" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_1b. どうしても</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_1b.mp3" length="38" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_2a. 〜てあげる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_2a.mp3" length="37" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_2b. ～てやる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_2b.mp3" length="35" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_3a. Vx-たり... Vy-たりする</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_3a.mp3" length="80" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_3b. Vx- たり...Vy- たり</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_3b.mp3" length="75" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_4. Nに夢中になる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_4.mp3" length="37" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_5a. V2ながら</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_5a.mp3" length="55" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_5b. V2ながら</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_5b.mp3" length="43" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_6. Nに V1せ・させてください</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_6.mp3" length="41" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_6. V1せる・させる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_6. V.mp3" length="41" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_7. V3んじゃなかった</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_7.mp3" length="51" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_8a. Nだそうだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_8a.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_8b. adjそうだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_8b.mp3" length="47" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L3_8c. Vそうだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L3_8c.mp3" length="52" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_1. 連濁クイズ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_1.mp3" length="85" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_2a. XにVてもらう</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_2a.mp3" length="58" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_2b. XにVていた…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_2b.mp3" length="59" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_3a. Vていただけ…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L4_3a.mp3" length="49" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_3b. agentにVて…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L4_3b.mp3" length="60" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_4. Vのがおしい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L4_4.mp3" length="51" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_5. Vてくださる…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_5.mp3" length="51" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_6. TA+うござい…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_6.mp3" length="71" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_7. おV2ください…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_7.mp3" length="55" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_8. Vたことがあ…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_8.mp3" length="61" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_9. XとおりY</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_9.mp3" length="62" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_10. SからX</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_10.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_11. Vstem + o…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_11.mp3" length="37" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_12. Vstem + o…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_12.mp3" length="41" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_13. SけれどもX</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_13.mp3" length="88" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_14a. Vたところ…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_14a.mp3" length="46" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_14b. Vたところ…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_14b.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_15. XのはYから…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_15.mp3" length="66" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L4_16. Sのです</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L4_16.mp3" length="49" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_1a. honorifics …)</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_1a.mp3" length="87" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_1b. honorifics …)</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_1b.mp3" length="68" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_2. honorifics (お…)</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_2.mp3" length="54" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_3. honorifics (れ…)</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_3.mp3" length="54" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_4. Xだけでなく…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_4.mp3" length="66" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_5. Vのをやめる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_5.mp3" length="58" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_6. Vなくてはな…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_6.mp3" length="62" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_7. V合う（複合…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_7.mp3" length="129" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_8. Vず（に）</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_8.mp3" length="55" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L5_9. Vはじめる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L5_9.mp3" length="38" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L6_1a. Xこそ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L6_1a.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L6_1b. Xこそ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L6_1b.mp3" length="46" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L6_2. Sぞ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L6_2.mp3" length="72" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L6_3a. TAそう</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L6_3a.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L6_3b. QAそう</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L6_3b.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L6_3c. V2そう</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L6_3c.mp3" length="64" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L6_4. V1なきゃ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L6_4.mp3" length="51" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_1. おV2する</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_1.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_2. Irregular humble verb form…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_2. Irregular humble verb form.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_2. Irregular humble verb forms…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_2. Irregular humble verb forms.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_3a. V3途中</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_3a. V3.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_3b. Nの途中</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_3b.mp3" length="53" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_4. V oo・yoo としない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_4. V.mp3" length="64" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_5. V - て（お）…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_5. V.mp3" length="61" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_6a. V - ちゃいけ…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_6a. V.mp3" length="22" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_6b. V - ちゃだ…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L7_6b. V.mp3" length="30" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_6c. V - ちゃいか…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L7_6c. V.mp3" length="26" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_7. XしかNeg</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L7_7. X.mp3" length="38" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_8. S はずだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L7_8.mp3" length="46" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_9. V てみる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L7_9. V.mp3" length="42" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_10. S かと思う…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_10. S.mp3" length="86" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_11. V - てしまう…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_11. V.mp3" length="45" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L7_12. N ににる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L7_12. N.mp3" length="30" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_1a. V3; V - たら…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_1a. V3.mp3" length="47" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_1b. T.A. らしい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_1b. T.A.mp3" length="43" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_1c. Q.A. らしい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_1c. Q.A.mp3" length="64" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_1d. N らしい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_1d. N.mp3" length="47" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_1e. N らしい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_1e. N.mp3" length="33" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_2a. V ばかり</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_2a. V.mp3" length="59" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_2b. V ばかり</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_2b. V.mp3" length="50" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_2c. V ばかり</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_2c. V.mp3" length="47" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_2d. N ばかり</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_2d. N.mp3" length="27" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_3. V2 出す</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_3. V2.mp3" length="41" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_4. V3 のに気が…</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_4. V3.mp3" length="63" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_5a. Honorific terms for family members</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_5a. Honorific terms for family members.mp3" length="68" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_5b. Honorific terms for family members</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_5b. Honorific terms for family members.mp3" length="36" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L8_5c. Honorific terms for family members</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L8_5c. Honorific terms for family members.mp3" length="58" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L9_1. Vx (oo・yoo) と Vy (oo・yoo) と</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L9_1. V.mp3" length="83" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L9_2a. V - たまま（で）</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L9_2a. V.mp3" length="45" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L9_2b. こ・そ・あ} のまま</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L9_2b.mp3" length="35" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L9_3. V3 ごとに</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L9_3. V3.mp3" length="70" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L9_4. V - てしかたがない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L9_4. V.mp3" length="56" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L9_5. V2 - たくてしかたがない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/L9_5. V2.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_1. X を入る</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_1.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_2a. V3; V - た } ようだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_2a.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_2b. V3; V - た } ような N</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_2b.mp3" length="43" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_2c. T.A. ようだ・ような N</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_2c. T.A.mp3" length="51" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_2d. Q.A. なようだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_2d. Q.A.mp3" length="50" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_2e. N のようだ・ような N</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_2e.mp3" length="56" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_3a. V3; V - た｝みたいな N</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_3a.mp3" length="66" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_3b. V3; V - た｝みたいに V</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_3b. V3.mp3" length="54" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_3c. T.A. みたい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_3c. T.A.mp3" length="54" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_3d. Q.A. みたい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_3d.mp3" length="45" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_3e. N みたいな N</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_3e. N.mp3" length="39" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_3f. N みたいに V</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_3f. N.mp3" length="53" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_4. S って</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_4.mp3" length="59" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_5. V1 ないかなあ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_5. V1.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_6. V3 な</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_6.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_7. (Place に) V - て行く</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_7.mp3" length="72" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_8a. V2 すぎる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_8a.mp3" length="53" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_8b. T.A. すぎる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_8b.mp3" length="65" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_8c. Q.A. すぎる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_8c.mp3" length="59" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_9a. V3 のに X</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_9a.mp3" length="38" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_9b. V - た のに X</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_9b. V.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_9c. T.A. のに X</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_9c.mp3" length="58" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_9d. Q.A. なのに X</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_9d.mp3" length="42" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_9e. N なのに X</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_9e.mp3" length="42" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L10_10. X の X ないの</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L10_10.mp3" length="76" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_1a. X だろうか</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_1a.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_1b. X だろうか</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_1b.mp3" length="79" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_2. V - ても</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_2.mp3" length="77" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_3. S な</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_3. S.mp3" length="54" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_4. (Nに）V1 {- せ・ -させ} てあげる (やる)</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_4.mp3" length="5000" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_5. V - たつもりだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_5. V.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_6. N と比べる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_6. N.mp3" length="77" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L11_7. V2 - たがる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L11_7.mp3" length="82" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L12_1. V2 なさい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L12_1. V2.mp3" length="56" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L12_2a. V3 と</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L12_2a.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L12_2b. V3 と</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L12_2b. V3.mp3" length="49" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L12_3. X - かもしれない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L12_3. X.mp3" length="82" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L12_4. V3 には</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L12_4. V3.mp3" length="46" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L12_5. V2 たくなる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L12_5. V2.mp3" length="50" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L12_6. X ほど Y</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L12_6.mp3" length="45" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_1a. N のために</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_1a.mp3" length="46" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_1b. N のために</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_1b.mp3" length="46" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_2. V3 のが普通だ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_2. V3.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_3a. どんなに N でも</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_3a.mp3" length="43" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_3b. どんなに Q.A. でも</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_3b.mp3" length="43" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_3c. どんなに T.A. くても</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_3c.mp3" length="40" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_4. N が上手だ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_4.mp3" length="42" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L13_5. N によって</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L13_5.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_1. V2 そうにない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_1. V2.mp3" length="63" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_2. V - ているところを見る</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_2. V.mp3" length="82" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_3. V3 わけに（は）いかない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_3. V3.mp3" length="45" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_4. まさか</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_4.mp3" length="52" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_5. V3 まい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_5.mp3" length="28" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_6a. X は、Y よりも T.A.</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_6a.mp3" length="43" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_6b. X は Y よりも Q.A.</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_6b.mp3" length="52" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_7a. V - てはいけない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_7a. V.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_7b. V - てはだめだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_7b. V.mp3" length="45" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L14_7c. V - てはいかん</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L14_7c.mp3" length="36" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_1. X なし</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_1.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_2. V3 ことが（よく）ある</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_2. V3.mp3" length="53" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_3a. V てもよい（いい）</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_3a. V.mp3" length="60" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_3b. V1 なくてもよい（いい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_3b. V1.mp3" length="61" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_4a. V4 ば</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_4a.mp3" length="54" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_4b. T.A. ければ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_4b. T.A.mp3" length="52" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_5. X とは V ことをいう・X とは N のことをいう</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_5.mp3" length="73" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L15_6. S ことになっている</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L15_6. S.mp3" length="61" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L16_1. N として</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L16_1.mp3" length="57" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_1a. V3 のようになる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_1a. V3.mp3" length="49" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_1b. N のようになる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_1b. N.mp3" length="40" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_2. N でできている</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_2. N.mp3" length="66" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_3. N というように</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_3. N.mp3" length="66" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_4. N が少なくない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_4. N.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_5. T.A. がる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_5. T.A.mp3" length="44" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_6. S かどうか分からない</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_6. S.mp3" length="74" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L17_7. X を始め、Y がある</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L17_7. X.mp3" length="37" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L18_1. まるで</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L18_1.mp3" length="55" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L18_2a. V - てくる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L18_2a.mp3" length="50" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L18_2b. V - てくる</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L18_2b.mp3" length="49" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L18_3. V1 ぬ（ん）</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L18_3.mp3" length="71" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L18_4. V1 - Neg うちに</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L18_4. V1.mp3" length="63" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L19_1a. V3 かのように</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L19_1a. V3.mp3" length="45" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L19_1b. V3 かのような N</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L19_1b. V3.mp3" length="62" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L19_2. V - たものだ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L19_2. V.mp3" length="52" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L19_3. V - た方がいい</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L19_3. V.mp3" length="48" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L20_1. X - につぐ</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_1.mp3" length="43" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L20_2a. X とともに</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_2a.mp3" length="56" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>20_2b. X とともに</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_2b.mp3" length="94" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L20_3. Place で最も（一番）〜</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_3.mp3" length="92" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L20_4. Nx は Ny が..</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_4.mp3" length="77" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L20_5a. X を背景にしています</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_5a. X.mp3" length="58" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L20_5b. X を背景にしている</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_5b.mp3" length="36" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+        <item>
+        <title>L20_5c X を背景にしている</title>
+        <link>http://ane.byu.edu/japan/</link>
+        <description>Japanese 301</description>
+        <author>robert_reynolds@byu.edu</author>
+        <!--  optional  -->
+        <comments></comments>
+        <!--  optional  -->
+        <enclosure url="http://hlr.byu.edu/progressive/Japanese/301/progressive/Japanese/301/L20_5c.mp3" length="40" type="audio/mpeg"/>
+        <!--  optional  -->
+        </item>
+
+    </channel>
+</rss>

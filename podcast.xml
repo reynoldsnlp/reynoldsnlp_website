@@ -16,10 +16,8 @@
 
   <item>
     <title>First title!</title>
-    <link>http://reynoldsnlp.com/first.mp3</link>
+    <link>http://reynoldsnlp.com</link>
     <description>SHORT first podcast. Welcome aboard!</description>
-    <author>user@example.com</author> <!-- optional -->
-    <comments>https://www.w3schools.com/comments</comments> <!-- optional -->
     <enclosure url="http://reynoldsnlp.com/zapsplat_pilot.mp3" length="5000" type="audio/mpeg" /> <!-- optional -->
   </item>
 
